@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Contrato - Voigt Consultoria",
+  "description": "Uma aplicação web para gerar contratos de Plano de Recuperação Empresarial em PDF, permitindo ao usuário escolher entre dois modelos de design e preencher os dados do contratante.",
+  "requestFramePermissions": []
+}
